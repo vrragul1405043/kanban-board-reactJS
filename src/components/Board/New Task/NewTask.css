@@ -1,0 +1,21 @@
+.react-datepicker-wrapper{
+    display: block !important;
+}
+.react-datepicker-wrapper~.invalid-feedback{
+        display: block !important;
+}
+
+.button-type {
+    color: #fff;
+    background-color: #FB4128;
+    border-color: #FB4128;
+    margin-right: 10px;
+}
+
+.btn-custom {
+    color: #fff;
+    background-color: #FB4128!important;
+    border-color: #FB4128!important;
+    margin-right: 10px;
+}
+    
